@@ -19,5 +19,5 @@ jobs:
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_DAVIDJULIAN035 }}"
-          projectId: michaelryan03
+          projectId: davidjulian035
           channelId: live
